@@ -1,0 +1,21 @@
+Removed Member From Class: ClassName=GY_NEO6MV2_Sheet1 Member=U?
+Change Component Designator: OldDesignator=C? NewDesignator=C24
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R20
+Change Component Designator: OldDesignator=U? NewDesignator=U6
+Change Component Designator: OldDesignator=U? NewDesignator=U7
+Change Net Name : Old Net Name=NetJ?_3 New Net Name=NetJ6_3
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR19_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR20_2
+Change Net Name : Old Net Name=NetU?_8 New Net Name=NetU7_8
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Pin To Net: NetName=NetR19_2 Pin=U1-25
+Added Net: Name=NetR19_2
+Added Pin To Net: NetName=NetR20_1 Pin=R20-1
+Added Pin To Net: NetName=NetR20_1 Pin=U7-20
+Added Net: Name=NetR20_1
+Added Member To Class: ClassName=GY_NEO6MV2_Sheet1 Member=Component R19 22?
+Added Member To Class: ClassName=GY_NEO6MV2_Sheet1 Member=Component R20 22?
+Added Member To Class: ClassName=GY_NEO6MV2_Sheet1 Member=Component U7 NEO-6M-GPS

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetR11_1 Pin=U1-18
+Added Pin To Net: NetName=NetJ2_2 Pin=U1-17
+Added Pin To Net: NetName=NetJ2_9 Pin=U1-18
+Added Pin To Net: NetName=NetR11_1 Pin=U1-20
+Added Pin To Net: NetName=NetJ2_5 Pin=U1-39
+Added Pin To Net: NetName=NetJ2_7 Pin=U1-40
+Added Pin To Net: NetName=NetJ2_3 Pin=U1-41
+Added Room: Name=AMS_Sheet1
+Added Room: Name=BME_280_Sheet1
+Added Room: Name=GY_NEO6MV2_Sheet1
+Added Room: Name=LM2596_Sheet1
+Added Room: Name=LORA_Sheet1
+Added Room: Name=MCU_Sheet1
+Added Room: Name=MPU_6050_Sheet1
+Added Room: Name=OPEN_DRAIN_Sheet1
+Added Room: Name=SD_CARD_Sheet1

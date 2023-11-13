@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=+3.3V Pin=R14-1
+Added Pin To Net: NetName=+5 Pin=R14-1
+Added Room: Name=AMS_Sheet1
+Added Room: Name=BME_280_Sheet1
+Added Room: Name=GY_NEO6MV2_Sheet1
+Added Room: Name=LM2596_Sheet1
+Added Room: Name=MCU_Sheet1
+Added Room: Name=MPU_6050_Sheet1
+Added Room: Name=OPEN_DRAIN_Sheet1
+Added Room: Name=SD_CARD_Sheet1

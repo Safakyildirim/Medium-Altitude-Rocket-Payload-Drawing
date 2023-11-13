@@ -1,0 +1,15 @@
+Added Component: Designator=B2(Lityum Battery)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.gittigidiyor.com/bilgisayar-tablet/12v-2-6a-lityum-batarya_pdp_728518934"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=MCU_Sheet1 Member=Component B2 Battery
+Added Room: Name=AMS_Sheet1
+Added Room: Name=BME_280_Sheet1
+Added Room: Name=Buzzer
+Added Room: Name=GY_NEO6MV2_Sheet1
+Added Room: Name=LM2596_Sheet1
+Added Room: Name=LORA_Sheet1
+Added Room: Name=MCU_Sheet1
+Added Room: Name=MPU_6050_Sheet1
+Added Room: Name=MQ-135
+Added Room: Name=OPEN_DRAIN_Sheet1
+Added Room: Name=SD_CARD_Sheet1

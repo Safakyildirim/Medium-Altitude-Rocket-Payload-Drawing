@@ -1,0 +1,9 @@
+Added Component: Designator=J6(MXTK88TK0500 Connector)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datashet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.robo90.com/ufl-rf-konnektor-smd-ipex-pcb-konnektor?gclid=Cj0KCQiAjJOQBhCkARIsAEKMtO3EQQtFxcQxxYyV63gND7p49a9U-0KiGjZnTbRHjlZa4_YkA7jEr6QaAmQAEALw_wcB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://ozdisan.com/konnektor-ve-baglanti-elemanlari/koaksiyel-konnektorler/koaksiyel-kablo-birlestiricileri/MXTK88TK0500"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=NetJ6_3 Pin=J6-3
+Added Member To Class: ClassName=GY_NEO6MV2_Sheet1 Member=Component J6 MXTK88TK0500 Connector

@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=M? NewDesignator=M2
+Added Component: Designator=J1(Connector 1x4)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/sd/705530003_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Satýn Alma Linki"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.ozdisan.com/konnektor-ve-baglanti-elemanlari/konnektor-cesitleri/pcb-konnektorler/MOLEX-705530003"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=J1-1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Change Net Name : Old Net Name=NetM?_2 New Net Name=NetM2_2
+Change Net Name : Old Net Name=NetM?_3 New Net Name=NetM2_3
+Added Member To Class: ClassName=MCU_Sheet1 Member=Component J1 Connector 1x4
+Added Room: Name=MCU_Sheet1

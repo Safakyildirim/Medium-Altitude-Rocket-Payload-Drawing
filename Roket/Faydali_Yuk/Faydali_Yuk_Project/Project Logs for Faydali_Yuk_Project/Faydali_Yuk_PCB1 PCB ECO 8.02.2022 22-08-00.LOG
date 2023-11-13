@@ -1,0 +1,17 @@
+Removed Member From Class: ClassName=MQ-135 Member=R?
+Change Component Designator: OldDesignator=B? NewDesignator=B1
+Change Component Designator: OldDesignator=L? NewDesignator=L2
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Net Name : Old Net Name=NetB?_1 New Net Name=NetB1_1
+Change Net Name : Old Net Name=NetL?_3 New Net Name=NetL2_3
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR15_1
+Added Member To Class: ClassName=MQ-135 Member=Component R16 20K?
+Added Room: Name=AMS_Sheet1
+Added Room: Name=BME_280_Sheet1
+Added Room: Name=Buzzer
+Added Room: Name=LM2596_Sheet1
+Added Room: Name=MCU_Sheet1
+Added Room: Name=MPU_6050_Sheet1
+Added Room: Name=OPEN_DRAIN_Sheet1
+Added Room: Name=SD_CARD_Sheet1
